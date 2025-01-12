@@ -1,0 +1,14 @@
+
+.itemsContainer {
+  text-align: left; 
+}
+
+.Container{
+  margin: 10px 5px;
+}
+
+.TDButton{
+  width: auto;
+  min-width: 100px;
+}
+
